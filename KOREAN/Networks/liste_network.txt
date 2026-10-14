@@ -1,0 +1,41 @@
+•TVN
+https://www.themoviedb.org/list/8703278
+
+•OCN
+https://www.themoviedb.org/list/8703293
+
+•SBS
+https://www.themoviedb.org/list/8703294
+
+•TVING
+https://www.themoviedb.org/list/8703295
+
+•ENA
+https://www.themoviedb.org/list/8703296
+
+•JTBC
+https://www.themoviedb.org/list/8703297
+
+•MBC
+https://www.themoviedb.org/list/8703298
+
+
+LISTE = {
+    8703278: 866,  # TVN
+    8703293: 627,  # OCN
+    8703294: 156,  # SBS
+    8703295: 3897,  # TVING
+    8703296: 5841,  # ENA
+    8703297: 885,  # JTBC
+    8703298: 97,  # MBC
+}
+
+
+
+
+
+
+
+
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjOTc1YjQwMmI5ZTM4NmMxOGM5NWVkYTlmOWUxNGQwZCIsIm5iZiI6MTc5MTMyMDUwMy41Njc0MDMzLCJqdGkiOiI2YWM1NjFhYTIzMDBiYzc3NmFkZWQyMmMiLCJzdWIiOiI2YTMyODk3OGUzYzNhYWQ5ZjVkOWYwMjEiLCJzY29wZXMiOlsiYXBpX3JlYWQiLCJhcGlfd3JpdGUiXSwidmVyc2lvbiI6Mn0.8OPFeMWBZIysh3nD6Nc3LUI27in0dguRNPGf7_7qbn0
