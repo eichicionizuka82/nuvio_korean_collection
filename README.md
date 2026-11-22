@@ -1,21 +1,60 @@
-# Full Korean Collection for Nuvio 🇰🇷 - FIXED
+1. Download the .json from the link below ( 3 dots in the top right corner > click download)
+2. Go to xperience > Import Profile > Upload File > Paste JSON
+3. Settings > API > Add your TMDB / MDBList keys
+Tested and working!
 
-✅ FIX per errore "Addon non trovato: app.xperience..."
+https://github.com/eichicionizuka82/nuvio_korean_collection/blob/main/xperience_korean_collection.json
 
-### Come installare (funziona su Android)
-1. Scarica `aisaka_full_korean_profile.json` da questo repo (pulsante Code > Download ZIP)
-2. Xperience App > Profili > Importa da file
-3. Inserisci le tue chiavi TMDB / MDBList
 
-### Contenuto
-- **7 Collections, 137 folders, 373 sources**
-- **Networks:** tvN, OCN, SBS, TVING, ENA, JTBC, MBC
-- **Studios:** CJ ENM, Studio Dragon, SLL, Kakao, BonFactory, Studio S, Studio Genie
-- **Years:** 2015 → 2026
-- **People:** 46 Actors / 43 Actresses / 9 Screenwriters
-- **Sources:** 100% TMDB
-- Testato: Park Gyu Young, Squid Game, Sweet Home ora si popolano correttamente
+🇰🇷 - FULL KOREAN COLLECTION - 🇰🇷
+- Dramas & Movies -
 
-### Requirements
-**1 Addon Required: Xperience**
+
+📺 HOME ROWS (6 main):
+• Latest Korean TV Shows
+• Top Rated Korean TV Shows 
+• Popular Korean TV Shows 
+• Latest Korean Movies 
+• Top Rated Korean Movies 
+• Popular Korean Movies 
+
+
+📡 NETWORKS / BROADCASTERS (7):
+• tvN - TV Series • OCN - TV Series • SBS - TV Series • TVING - TV Series • ENA - TV Series • JTBC - TV Series • MBC - TV Series
+
+ 
+🏢 STUDIOS / PRODUCTION (9):
+• CJ ENM • Bon Factory • SLL • Kakao Entertainment • Studio Dragon • KT Studio Genie • JTBC Studios • Studio S • MBC 
+
+
+🎭 GENRES (11):
+TV Series + Movies for each genre:
+Action & Adventure, Comedy, Drama, Crime, Mystery, Fantasy & Sci-Fi, History, Supernatural, Thriller, Horror, Romance
+
+
+📅 YEARS (2015-2026):
+From 2015 to 2026, each year split into Movies / Series
+
+
+👤 ACTORS / ACTRESSES:
+89 actors/actresses total (178 collections - Movies + Series)
+E.g: Son Ye Jin, Hyun Bin, IU, Song Joong Ki, Han So Hee, Park Bo Gum etc.
+
+✍️ SCREENWRITERS:
+9 screenwriters
+E.g: Park Chan-wook, Kim Eun-sook, Hong Jeong-eun and more
+
+
+Ready to use. 🍿
+
+
+Perfect for both beginners and hardcore K-Drama / K-Movie fans.
+
+
+# Requirements
+
+Addon Required: Xperience
+
 This collection uses 100% TMDB lists via the Xperience addon.
+
+🔄 All lists are auto-updating
