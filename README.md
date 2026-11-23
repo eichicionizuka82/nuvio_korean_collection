@@ -1,11 +1,3 @@
-1. Download the .json from the link below ( 3 dots in the top right corner > click download)
-2. Go to xperience > Import Profile > Upload File > Paste JSON
-3. Settings > API > Add your TMDB / MDBList keys
-Tested and working!
-
-https://github.com/eichicionizuka82/nuvio_korean_collection/blob/main/xperience_korean_collection.json
-
-
 🇰🇷 - FULL KOREAN COLLECTION - 🇰🇷
 - Dramas & Movies -
 
